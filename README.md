@@ -1,4 +1,4 @@
-# 👋 Hi, I'm John!
+# 👋 Hi, I'm John Antony!
 
 🎓 **8th Grade Student**  
 🐍 Learning **Python**  
@@ -18,10 +18,10 @@ I love building real-world projects and learning by experimenting 🚀
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages:** Python  
+- **Languages:** Python, Javascript
 - **Libraries:** OpenCV, MediaPipe, NumPy  
-- **Tools:** VS Code, Google Colab  
-- **Robotics:** Arduino, sensors, motors (beginner)
+- **Tools:** VS Code, Google Colab, Thonny
+- **Robotics:** Arduino, Raspberry Pi, sensors
 
 ---
 
@@ -31,6 +31,7 @@ I love building real-world projects and learning by experimenting 🚀
 - 🧍 **Human Detection & Counting**
 - 🎮 **Mini Games using Python & OpenCV**
 - 🤖 **Basic Robotics Projects** (line follower, obstacle detection)
+(More projects coming soon!)
 
 ---
 
