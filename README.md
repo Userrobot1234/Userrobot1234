@@ -56,4 +56,8 @@ I believe **learning by building projects** is the best way to grow.
 
 ---
 
+📬 Contact & Profile
+🌟 GitHub: You’re already here!
+    Gmail:-joh35079@gmai.com
+---
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*
