@@ -31,6 +31,7 @@ I love building real-world projects and learning by experimenting 🚀
 - 🧍 **Human Detection & Counting**
 - 🎮 **Mini Games using Python & OpenCV**
 - 🤖 **Basic Robotics Projects** (line follower, obstacle detection)
+
 (More projects coming soon!)
 
 ---
