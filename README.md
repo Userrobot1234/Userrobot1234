@@ -21,7 +21,7 @@ I love building real-world projects and learning by experimenting 🚀
 - **Languages:** Python
 - **Libraries:** OpenCV, MediaPipe, NumPy  
 - **Tools:** VS Code, Google Colab, Thonny
-- **Robotics:** Arduino, Raspberry Pi, sensors
+- **Robotics:** Arduino, Raspberry Pi, Pico, Sensors
 
 ---
 
