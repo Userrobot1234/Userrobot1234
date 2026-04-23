@@ -1,6 +1,6 @@
 # 👋 Hi, I'm John Antony!
 
-🎓 **8th Grade Student**  
+🎓 **9th Grade Student**  
 🐍 Learning **Python**  
 👁️ Exploring **Computer Vision** with **OpenCV & MediaPipe**  
 🤖 Interested in **Robotics & Automation**
